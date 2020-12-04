@@ -1,1 +1,0 @@
-{'ver1':'7', 'ver2':'30', 'ver3':'\nŞÜÑíÜÈÜÇğ ÊÜÍÏíÜË ÌÜÏíÜÏ\n\n íãßäß ãÊÇÈÚÉ ŞäÇÊäÇ Úáì ÇáÊíáÌÑÇã áÊÍÕá Úáì ÇáÊÍÏíËÇÊ ÇæáÇğ ÈÃæá æáÊÍãíáåÇ Èßá ÓåæáÉ\n\nOur channel on the Telegram\n\nYou can follow our Telegram channel to get the updates up-to-date and download them with ease\n' , 'dli':'https://t.me/joinchat/AAAAAFXYTnToNWWa3LBIeA'}
