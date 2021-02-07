@@ -1,27 +1,28 @@
-{"version_code":7111111,"content":"
+{'ver1':'7', 'ver2':'55', 'ver3'}
 <strong><p>بسم الله الرحمن الرحيم</p></strong>
 <strong><p>==================</p></strong>
-<strong><p>🌙تحديث جديد رقم 4.80🌙</p></strong>
-<strong><p>🌙 تحديث إجباري لتفادي إنتهاء النسخة🌙</p></strong>
-<p><li>1️⃣ حل مشكلة تأخر وصول الرسائل او تأخر إرسال الرسائل 👍</li></p>
-<p><li>2️⃣ زيادة اعادة التوجية الى مالانهاية 👍</li></p>
-<p><li>3️⃣ إضافة خيار إظهار الصحين الزرقاء فقط بعد الرد (تعليم الرساله مقروءه بعد الرد!) 👍</li></p>
-<p><li>4️⃣ إضافة سيرفر ثيمات جديدة يعمل مع جميع الإجهزة 👍</li></p>
-<p><li>5️⃣ تستطيع الان تثبيت اكثر من 1000 محادثة 👍</li></p>
+<strong><p>🌙 لمن واجهتة مشكلة عدم تحميل الأصوات والصور 🌙</p></strong>
+<strong><p>🌙 الــحــل كــالــتــالــي 🌙</p></strong>
+<p><li>1️⃣ الشاشة الرئيسية 👍</li></p>
+<p><li>2️⃣ مميزات أضواء العين 👍</li></p>
+<p><li>3️⃣ حل مشكلة عدم تحميل الأصوات والصور 👍</li></p>
+<p><li>4️⃣ أضغط قم بتشغيل السماح لتحميل الوسائط 👍</li></p>
 <strong><p>==================</p></strong>
-<strong><p>🌙New update number 4.80🌙</p></strong>
-<strong><p>🌙 Mandatory update to avoid expiration🌙</p></strong>
-<p><li>1️⃣Resolve the problem of late arrival of messages or delayed sending messages 👍</li></p>
-<p><li>2️⃣Added option to show blue saheen only after reply (mark message read after reply!) 👍</li></p>
-<p><li>3️⃣Increase redirection to infinity 👍</li></p>
-<p><li>4️⃣The addition of a new server theme works with all devices 👍</li></p>
-<p><li>5️⃣ You can now install more than 1000 conversations 👍</li></p>
+<strong><p>🌙 For those who faced the problem of not downloading sounds and images 🌙</p></strong>
+<strong><p>🌙 The solution is as follows 🌙</p></strong>
+<p><li>1️⃣ main screen 👍</li></p>
+<p><li>2️⃣ AThwaMods features 👍</li></p>
+<p><li>3️⃣ Solve the problem of not downloading sounds and images 👍</li></p>
+<p><li>4️⃣ Click on Allow to download media 👍</li></p>
 <strong><p>==================</p></strong>
-<p>👇 لتحميل التحديث الجديد يرجئ الضغط بالأسفل على كلمة فـتـح ومن ثم الضغط على المستطيل الأخضر لبدء التحميل 👇</p>
-<strong><p>يمكنكم أيضاً تحميل التحديث الجديد من موقعناعلى الأنترنت أو قناتنا على التيليجرام</p></strong>
+<strong><p>👇 يمكنكم متابعة قناتنا على التيليجرام عبر الضغط بالأسفل على كلمة فتح 👇</p></strong>
+<strong><p>You can follow our channel on Telegram by clicking on the word open below</p></strong>
 <strong><p>==================</p></strong>
 <p><li>مـلاحـظـة</li></p>
-<p>📩 ستختفي هذة الرسالة في حال قمت بتثبيت التحديث الجديد بأذن الله تعالى .. شكراً لكم .</p>
+<p><li>Note</li></p>
+<p>📩 ستختفي هذة الرسالة قريباً بأذن الله تعالى .. شكراً لكم .</p>
+<p>📩 This message will soon disappear, God willing .. Thank you.</p>
 <li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
-","url":"https://athwamods.blogspot.com/2019/06/AThwaWhatsApp.html"
+<li>Finally, we apologize for the inconvenience</li>
+","url":"https://t.me/joinchat/AAAAAFXYTnToNWWa3LBIeA"
 }
